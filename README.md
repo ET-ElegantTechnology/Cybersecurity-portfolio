@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://et-eleganttechnology.github.io/">
+ <a href="https://et-eleganttechnology.github.io/Cybersecurity-portfolio/">
     <strong>🌐 View Live Portfolio</strong>
   </a>
 </p>
